@@ -1,3 +1,2 @@
 # Hey!
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31imodtox3afjhmpiisvpbwyijji&count=8)
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31imodtox3afjhmpiisvpbwyijji&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
