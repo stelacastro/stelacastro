@@ -1,1 +1,5 @@
-https://64.media.tumblr.com/72e1e9655a37e9c2c80e3d98668af593/b2a6980093f4e1c0-8b/s250x400/70362ba4725b8b945f8351d046c41b9e95ed6799.gifv
+<p align="center">
+  <img src="https://64.media.tumblr.com/b319905fb9de0e644dab8ba3209afd28/d93d0af769280d8b-10/s100x200/94b6d5eae329964f76d4f11fc638cf50702858f9.gifv" alt="" />
+  <br />
+  under construction. 🚧
+</p>
