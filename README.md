@@ -1,2 +1,1 @@
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31imodtox3afjhmpiisvpbwyijji&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
+https://64.media.tumblr.com/72e1e9655a37e9c2c80e3d98668af593/b2a6980093f4e1c0-8b/s250x400/70362ba4725b8b945f8351d046c41b9e95ed6799.gifv
